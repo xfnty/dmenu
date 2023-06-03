@@ -5,7 +5,8 @@ It is also has a [page](https://wiki.archlinux.org/title/Dmenu) on Arch Wiki.
 
 
 ## Patches
-No patches here. It is the original source code.
+- [center](https://tools.suckless.org/dmenu/patches/center/)
+- [border](https://tools.suckless.org/dmenu/patches/border/)
 
 
 ## Installation
